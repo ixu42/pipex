@@ -1,0 +1,6 @@
+*.o
+*.a
+pipex
+.base
+.bonus
+*.DS_Store
